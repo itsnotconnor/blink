@@ -1,0 +1,52 @@
+Info: Processing symbol 'R3:Capacitor_SMD:C_0402_1005Metric'.
+Info: Processing symbol 'H2:MountingHole:MountingHole_2.7mm_M2.5'.
+Info: Processing symbol 'H3:MountingHole:MountingHole_2.7mm_M2.5'.
+Info: Processing symbol 'H4:MountingHole:MountingHole_2.7mm_M2.5'.
+Info: Processing symbol 'J1:RP2040_minimal:USB_Micro-B_Amphenol_10103594-0001LF_Horizontal_modified'.
+Info: Processing symbol 'C1:Capacitor_SMD:C_0805_2012Metric'.
+Info: Processing symbol 'J3:Connector_PinHeader_2.54mm:PinHeader_2x18_P2.54mm_Vertical'.
+Info: Processing symbol 'J4:Connector_PinHeader_2.54mm:PinHeader_2x03_P2.54mm_Horizontal'.
+Info: Processing symbol 'R1:Capacitor_SMD:C_0402_1005Metric'.
+Info: Processing symbol 'R2:Capacitor_SMD:C_0402_1005Metric'.
+Info: Processing symbol 'J2:Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical'.
+Info: Processing symbol 'R4:Capacitor_SMD:C_0402_1005Metric'.
+Info: Processing symbol 'R5:Capacitor_SMD:C_0402_1005Metric'.
+Info: Processing symbol 'R6:Capacitor_SMD:C_0402_1005Metric'.
+Info: Processing symbol 'U1:Package_TO_SOT_SMD:SOT-223-3_TabPin2'.
+Info: Processing symbol 'U2:Package_SO:SOIC-8_5.23x5.23mm_P1.27mm'.
+Info: Processing symbol 'U3:RP2040_minimal:RP2040-QFN-56'.
+Info: Processing symbol 'U4:Package_DIP:DIP-14_W7.62mm'.
+Info: Processing symbol 'Y1:RP2040_minimal:Crystal_SMD_HC49-US'.
+Info: Processing symbol 'D2:LED_SMD:LED_WS2812_PLCC6_5.0x5.0mm_P1.6mm'.
+Info: Processing symbol 'C2:Capacitor_SMD:C_0402_1005Metric'.
+Info: Processing symbol 'C3:Capacitor_SMD:C_0402_1005Metric'.
+Info: Processing symbol 'C4:Capacitor_SMD:C_0805_2012Metric'.
+Info: Processing symbol 'C5:Capacitor_SMD:C_0402_1005Metric'.
+Info: Processing symbol 'C6:Capacitor_SMD:C_0402_1005Metric'.
+Info: Processing symbol 'C7:Capacitor_SMD:C_0402_1005Metric'.
+Info: Processing symbol 'C8:Capacitor_SMD:C_0402_1005Metric'.
+Info: Processing symbol 'C9:Capacitor_SMD:C_0402_1005Metric'.
+Info: Processing symbol 'C10:Capacitor_SMD:C_0402_1005Metric'.
+Info: Processing symbol 'C11:Capacitor_SMD:C_0402_1005Metric'.
+Info: Processing symbol 'C12:Capacitor_SMD:C_0402_1005Metric'.
+Info: Processing symbol 'H1:MountingHole:MountingHole_2.7mm_M2.5'.
+Info: Processing symbol 'C18:Capacitor_SMD:C_0402_1005Metric'.
+Info: Processing symbol 'C17:Capacitor_SMD:C_0805_2012Metric'.
+Info: Processing symbol 'C16:Capacitor_SMD:C_0402_1005Metric'.
+Info: Processing symbol 'C15:Capacitor_SMD:C_0402_1005Metric'.
+Info: Processing symbol 'C14:Capacitor_SMD:C_0402_1005Metric'.
+Info: Processing symbol 'C13:Capacitor_SMD:C_0402_1005Metric'.
+Changed REF** reference designator to J4.
+Added J4 (footprint 'Connector_PinHeader_2.54mm:PinHeader_2x03_P2.54mm_Horizontal').
+Updated J4 properties.
+Changed J4 value from PinHeader_2x03_P2.54mm_Horizontal to Conn_02x03_Top_Bottom.
+Updated J4 symbol association from  to /17aea721-951e-4fd8-86f5-0ff4e2e6ff19.
+Connected J4 pin 6 to GND.
+Connected J4 pin 5 to /GPIO17.
+Connected J4 pin 4 to /GPIO18.
+Connected J4 pin 3 to /SWD.
+Connected J4 pin 2 to /SWCLK.
+Connected J4 pin 1 to /RUN.
+
+
+Info: Total warnings: 0, errors: 0.
